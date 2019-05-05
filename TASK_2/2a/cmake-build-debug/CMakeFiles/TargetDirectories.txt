@@ -1,0 +1,3 @@
+C:/Users/trist/CLionProjects/C ASSIGNMENT/TASK_2/2a/cmake-build-debug/CMakeFiles/2a.dir
+C:/Users/trist/CLionProjects/C ASSIGNMENT/TASK_2/2a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trist/CLionProjects/C ASSIGNMENT/TASK_2/2a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
