@@ -28,7 +28,7 @@ In this project, the following tasks were performed:
       - _-1_ if the first non-equal element pair is smaller for the first tuple.
       - _0_ if all elements are equal.
 
-      <b id="f1">1</b> Compatible tuples are those with the same element number and types, or where the element number/types of the first is a prefix of the second. . [↩](#a1)
+      <b id="f1">1</b> Compatible tuples are those with the same element number and types, or where the element number/types of the first is a prefix of the second. [↩](#a1)
 
     - `Joining` of 2 tuples, given the 2 pointers of tuples to be joined and a new tuple ID.
     - `Saving` of all existing tuple objects to disk.
