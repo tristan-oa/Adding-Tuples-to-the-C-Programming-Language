@@ -1,3 +1,0 @@
-"C:\UNIVERSITY\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\2b.dir/objects.a
-C:\UNIVERSITY\MinGW\mingw64\bin\ar.exe cr CMakeFiles\2b.dir/objects.a @CMakeFiles\2b.dir\objects1.rsp
-C:\UNIVERSITY\MinGW\mingw64\bin\gcc.exe  -Wall -g   -Wl,--whole-archive CMakeFiles\2b.dir/objects.a -Wl,--no-whole-archive  -o 2b.exe -Wl,--out-implib,lib2b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2b.dir\linklibs.rsp

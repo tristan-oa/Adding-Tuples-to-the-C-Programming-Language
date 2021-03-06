@@ -1,0 +1,25 @@
+The tuples which have been saved are shown below
+-------------------------------------------------
+Tuple 1 
+String ID: Dog
+ 
+Colon Delimited String : 3:i:c:f 
+
+Element 1 :  3 
+
+Element 2 :  d 
+
+Element 3 :  7.800000 
+
+
+Tuple 2 
+String ID: Cat
+ 
+Colon Delimited String : 2:i:c 
+
+Element 1 :  2 
+
+Element 2 :  c 
+
+
+-------------------------------------------------

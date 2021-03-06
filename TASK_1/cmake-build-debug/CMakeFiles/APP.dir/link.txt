@@ -1,3 +1,0 @@
-"C:\UNIVERSITY\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\APP.dir/objects.a
-C:\UNIVERSITY\MinGW\bin\ar.exe cr CMakeFiles\APP.dir/objects.a @CMakeFiles\APP.dir\objects1.rsp
-C:\UNIVERSITY\MinGW\bin\gcc.exe  -Wall -g   -Wl,--whole-archive CMakeFiles\APP.dir/objects.a -Wl,--no-whole-archive  -o APP.exe -Wl,--out-implib,libAPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\APP.dir\linklibs.rsp
