@@ -36,6 +36,6 @@ In this project, the following tasks were performed:
 
 # Documentation
 
-A report describing the design process and motivation behind this project can be found [here](https://github.com/tristan-oa/C-Programming-Principles-1st-year/Assignment_SPECIFICATION.pdf).
+A report describing the design process and motivation behind this project can be found [here](https://github.com/tristan-oa/C-Programming-Principles-1st-year/blob/master/Assignment_SPECIFICATION.pdf).
 
-A detailed technical documentation of the source code written can be found [here](https://github.com/tristan-oa/C-Programming-Principles-1st-year/DOCUMENTATION.pdf).
+A detailed technical documentation of the source code written can be found [here](https://github.com/tristan-oa/C-Programming-Principles-1st-year/blob/master/DOCUMENTATION.pdf).
