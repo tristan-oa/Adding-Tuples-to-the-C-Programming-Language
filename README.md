@@ -1,6 +1,6 @@
 # Adding Functionality to Array Operations and Introducing Tuple Representations in C
 
-This project was the first Uni-related programming assignment, which made part of the [CPS1011: Programming Principles in C](https://www.um.edu.mt/courses/studyunit/CPS1011) course, forming part of my BSc Computer Science.
+This project was my first University programming assignment. This made part of the [CPS1011: Programming Principles in C](https://www.um.edu.mt/courses/studyunit/CPS1011) course, forming part of my B.Sc. in Computer Science.
 
 # Task Breakdown
 
